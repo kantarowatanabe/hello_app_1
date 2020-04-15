@@ -195,7 +195,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   jbuilder (~> 2.7)
-  pg (>= 0.20.0)
+  pg (>= 0.19.0)
   puma (~> 4.1)
   rails (~> 6.0.2, >= 6.0.2.2)
   sass-rails (>= 6)
